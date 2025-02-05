@@ -1,7 +1,7 @@
 -👋 Hi, I’m @VibuAchari  
-- 👀 I’m interested in the fields of AI, machine learning and web development.
-- 🌱 I’m currently learning to blend technical skills with storytelling in fields of 3D website development, the MERN stack, and continuously expanding my expertise in AI and machine learning.  
-- 💞️ I’m looking to collaborate on projects involving machine learning or web development
+- 👀 I’m interested in the fields of AI, machine learning.
+- 🌱 I’m currently learning to blend technical skills with storytelling in fields of AI and machine learning.  
+- 💞️ I’m looking to collaborate on projects involving the same.
 - 📫 How to reach me: vibu24404@gmail.com  
 - 😄 Pronouns: She/her  
 - ⚡ Fun fact: When I’m not coding or training machine models, you’ll find me immersed in a good book or penning down some sad poetry
