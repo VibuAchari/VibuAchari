@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vibusha S Achari</h1>
 <h3 align="center">Applied AI Systems • Backend Engineering • Machine Learning & Automation</h3>
 
-🔭 I’m currently working on Workflow Automation Engine<br>📝 I write articles on  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vibu24404) <br>💬 Ask me about Python, AI Systems, Machine Learning,<br>⚡ Fun fact My Git history is just a timeline of optimism followed by bug fixes 
+🔭 I’m currently working on Workflow Automation Engine<br> <br>💬 Ask me about Python, AI Systems, Machine Learning,<br>⚡ Fun fact My Git history is just a timeline of optimism followed by bug fixes 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vibusha-s-achari-24ap1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vibu24404@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vibusha-s-achari-24ap1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vibu24404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vibu24404@gmail.com) 
 
 # 💻 Tech Stack:
 ## Languages
