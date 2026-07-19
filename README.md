@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vibusha S Achari</h1>
 <h3 align="center">Applied AI Systems • Backend Engineering • Machine Learning & Automation</h3>
 
-🔭 I’m currently working on Workflow Automation Engine<br> <br>💬 Ask me about Python, AI Systems, Machine Learning,<br>⚡ Fun fact My Git history is just a timeline of optimism followed by bug fixes 
+🔭 I’m currently working on Workflow Automation Engine<br>💬 Ask me about Python, AI Systems, Machine Learning,<br>⚡ Fun fact My Git history is just a timeline of optimism followed by bug fixes 
 
 
 ## 🌐 Socials:
